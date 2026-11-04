@@ -41,4 +41,4 @@ Os dados ficam em uma lista na memória do programa. Ao fechar o programa, os re
 
 https://github.com/franciellyneyane/controle-materiais-laboratorio
 
-O repositório está privado. Outras pessoas não conseguem abrir o link até a proprietária convidá-las pelo GitHub. Para o professor ver os arquivos, peça o nome de usuário ou e-mail usado por ele no GitHub e convide-o; não envie sua senha a ninguém.
+O repositório está público. O professor pode abrir o link e baixar os arquivos sem convite. Qualquer outra pessoa também poderá ver o código e os documentos.
